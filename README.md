@@ -12,9 +12,13 @@ It also provides a simple **Gradio app** for live interaction.
 - Lightweight CLI inference script
 
 ---
+![Correct Classification](results.png)
+
+![Evaluation Metrics](accuracy.png)
 
 ##  Installation
 ```bash
 git clone https://github.com/<your-username>/news-topic-bert.git
 cd news-topic-bert
 pip install -r requirements.txt
+
